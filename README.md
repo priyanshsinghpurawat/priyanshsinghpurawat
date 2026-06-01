@@ -1,10 +1,8 @@
-## Hi there 👋
-
-
-**priyanshsinghpurawat/priyanshsinghpurawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=PRIYANSH+SINGH+PURAWAT;FULL+STACK+DEVELOPER;AI+%2B+FUTURISTIC+WEB+EXPERIENCES)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0F172A,100:111827&text=PRIYANSH&fontColor=38BDF8&fontSize=75&animation=fadeIn&fontAlignY=38" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=28&pause=1000&color=94A3B8&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Interface+Builder;Modern+Cyberpunk+UI+Designer)](https://git.io/typing-svg)
 
 </div>
